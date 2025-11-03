@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1eeab5b-2d9a-4445-a6a0-a18e7942feae" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/perceptron.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_DeepLearning_practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_DeepLearning_practice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="e1eeab5b-2d9a-4445-a6a0-a18e7942feae" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +65,7 @@
       <workItem from="1761899188138" duration="691000" />
       <workItem from="1761899977589" duration="698000" />
       <workItem from="1762156254738" duration="721000" />
-      <workItem from="1762163891826" duration="4911000" />
+      <workItem from="1762163891826" duration="5214000" />
     </task>
     <servers />
   </component>
